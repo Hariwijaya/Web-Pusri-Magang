@@ -1,0 +1,11 @@
+admin pengelola 
+username : hari
+pw : 12345678
+
+admin divisi
+username : admindivisi
+pw : 12345678
+
+manager pembelian
+username : manager
+pw : 12345678

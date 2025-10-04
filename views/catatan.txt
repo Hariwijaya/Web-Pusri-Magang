@@ -1,0 +1,3 @@
+-buat ketika ngajuin, tidak perlu lagi memilih divisi, tapi langsung otomatis karena percuma daftarin divisi tapi masih milih lagi
+-buat tabel sparepart dan tampilannya
+dak biso logout kalo di edit smo tambah sparepart
